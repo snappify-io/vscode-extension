@@ -22,8 +22,8 @@ Alternatively you can also selected the desired code and execute the command via
 
 # Features
 
-Head over to [snappify.io](https://snappify.io/) to learn more about available options to explain your code.
+Head over to [snappify.com](https://snappify.com/) to learn more about available options to explain your code.
 
 You have many options like adding arrow elements, code highlights or custom images to truly explain how your code / features work.
 
-If you're missing anything, don't hesitate to reach out to us via [info@snappify.io](mailto:info@snappify.io)
+If you're missing anything, don't hesitate to reach out to us via [info@snappify.com](mailto:info@snappify.com)

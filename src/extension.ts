@@ -1,7 +1,7 @@
 import * as path from "path";
 import * as vscode from "vscode";
 
-const snappifyUrl = "https://snappify.io";
+const snappifyUrl = "https://snappify.com";
 
 // maps the vscode languageIds to the snappify languageIds (if they are different)
 const languageMap = new Map([
