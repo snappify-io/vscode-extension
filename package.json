@@ -40,7 +40,15 @@
           "command": "snappify.new"
         }
       ]
-    }
+    },
+    "keybindings": [
+       {
+        "command": "snappify.new",
+        "key": "ctrl+alt+s",  
+        "mac": "cmd+alt+s",   
+        "when": "editorTextFocus"
+      }
+    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run esbuild-base -- --minify",
